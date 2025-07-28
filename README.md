@@ -20,7 +20,7 @@ To clean raw sales data by:
 ## 📂 Folder Structure
 
 ```
-Data-Cleaning-Utility/
+Data-Cleaning-Utility-using Python,Pandas/
 │
 ├── README.md                      ← Project overview and steps
 │
